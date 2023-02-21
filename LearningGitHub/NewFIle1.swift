@@ -7,4 +7,4 @@
 
 import Foundation
 // stuff
-var name = ""
+var name = "Jim Linehan"
